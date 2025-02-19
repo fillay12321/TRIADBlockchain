@@ -9,3 +9,4 @@ pub mod smart_contract;
 pub mod mempool;
 pub mod p2p_server;
 pub mod rest_api;
+mod consensus_plugin;
